@@ -1,0 +1,14 @@
+{
+  "name": "rebbleautoboot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crc-32",
+  "license": "MIT",
+  "dependencies": {
+    "webadb": "git+https://github.com/webadb/webadb.js.git"
+  }
+}
